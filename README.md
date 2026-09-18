@@ -56,3 +56,11 @@ This prototype's original code is MIT-licensed. It does not redistribute MaleCNS
 ```bash
 python run_reversal_experiment.py
 ```
+
+## Context-dependent reversal extension
+
+`run_context_reversal.py` tests whether cues let the artificial learner retrieve opposing policies instead of overwriting them. It includes four cue reliability levels, frozen counterfactual probes, no-context/fast-only/shuffled-cue controls, alternating-context switch costs, reacquisition savings, 200 deterministic seeds, paired summaries, and reproducible figures. See [`CONTEXT_REVERSAL.md`](CONTEXT_REVERSAL.md).
+
+```bash
+python run_context_reversal.py
+```
