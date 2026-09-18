@@ -1,0 +1,10 @@
+{
+  "identified_source": "MaleCNS v1.0",
+  "organism": "Drosophila melanogaster (adult male fruit fly), not a bee",
+  "dataset_url": "https://male-cns.janelia.org/download/",
+  "dataset_license": "CC-BY",
+  "release_date": "2026-06-08",
+  "google_role": "Google Research collaborator on reconstruction; dataset led by HHMI Janelia with Cambridge/MRC collaborators",
+  "used_in_prototype": "Only published scale, anatomy, and circuit-level design constraints. No bulk synapse table is bundled or simulated.",
+  "reason": "A connectome gives structural wiring, not membrane dynamics, neuromodulatory state, sensory transduction, a trained policy, memories, or subjective experience."
+}
